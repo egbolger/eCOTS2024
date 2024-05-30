@@ -1,7 +1,7 @@
 # eCOTS2024
 eCOTS 2024 Poster and Beyond entry "Developing Thoughtful Scientists through an Introduction to Data Science Course" presented by Emily Bolger
 
-!TODO Link site from eCOTs; presentation for eCOTS, 
+!TODO Link site from eCOTs
 
 ## What's in the Repo
 This repository contains the assignments shared as a part of the presentation (`CourseworkMaterials'), more information on the course and our department, opportunities to run the code yourself, and contact information for the major contributors. 
